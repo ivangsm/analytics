@@ -7,6 +7,7 @@ Mix.Tasks.GenerateReferrerFavicons.html
 Mix.Tasks.PullSandboxSubscription.html
 Mix.Tasks.SendPageview.html
 ObanErrorReporter.html
+Plausible.AsyncInsertRepo.html
 Plausible.Auth.ApiKey.html
 Plausible.Auth.ApiKeyAdmin.html
 Plausible.Auth.GracePeriod.html
@@ -22,6 +23,7 @@ Plausible.Billing.PaddleApi.html
 Plausible.Billing.Plans.html
 Plausible.Billing.SiteLocker.html
 Plausible.Billing.html
+Plausible.ChangesetHelpers.html
 Plausible.ClickhouseEvent.html
 Plausible.ClickhouseRepo.html
 Plausible.ClickhouseSession.html
@@ -41,6 +43,11 @@ Plausible.HTTPClient.Interface.html
 Plausible.HTTPClient.Non200Error.html
 Plausible.HTTPClient.html
 Plausible.Imported.html
+Plausible.IngestRepo.html
+Plausible.Ingestion.Counters.Buffer.html
+Plausible.Ingestion.Counters.Record.html
+Plausible.Ingestion.Counters.TelemetryHandler.html
+Plausible.Ingestion.Counters.html
 Plausible.Ingestion.Event.html
 Plausible.Ingestion.Request.html
 Plausible.Mailer.html
@@ -66,6 +73,7 @@ Plausible.Site.GoogleAuth.html
 Plausible.Site.ImportedData.html
 Plausible.Site.Membership.html
 Plausible.Site.MonthlyReport.html
+Plausible.Site.Removal.html
 Plausible.Site.SharedLink.html
 Plausible.Site.SpikeNotification.html
 Plausible.Site.WeeklyReport.html
@@ -77,6 +85,7 @@ Plausible.Stats.Base.html
 Plausible.Stats.Breakdown.html
 Plausible.Stats.Clickhouse.html
 Plausible.Stats.Compare.html
+Plausible.Stats.Comparisons.html
 Plausible.Stats.CurrentVisitors.html
 Plausible.Stats.FilterParser.html
 Plausible.Stats.FilterSuggestions.html
@@ -87,6 +96,7 @@ Plausible.Stats.Interval.html
 Plausible.Stats.Props.html
 Plausible.Stats.Query.html
 Plausible.Stats.Timeseries.html
+Plausible.Stats.Util.html
 Plausible.Stats.html
 Plausible.Test.ClickhouseSetup.html
 Plausible.TestUtils.html
@@ -132,7 +142,6 @@ PlausibleWeb.ErrorHelpers.html
 PlausibleWeb.ErrorReportController.html
 PlausibleWeb.ErrorView.html
 PlausibleWeb.Favicon.html
-PlausibleWeb.Firewall.html
 PlausibleWeb.FirstLaunchPlug.html
 PlausibleWeb.FormHelpers.html
 PlausibleWeb.InvitationController.html
@@ -168,8 +177,8 @@ dist/html/fonts/remixicon.svg
 dist/html/fonts/remixicon.ttf
 dist/html/fonts/remixicon.woff
 dist/html/fonts/remixicon.woff2
-dist/search_items-514ccc38ad.js
-dist/sidebar_items-82bb42e23d.js
+dist/search_items-e3aa6ff3f5.js
+dist/sidebar_items-e3ed95f7c6.js
 index.html
 readme.html
 search.html
